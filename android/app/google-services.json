@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792413342079",
+    "project_id": "phn-auth-b012a",
+    "storage_bucket": "phn-auth-b012a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792413342079:android:98de0b5fb0aa5c0ee6324a",
+        "android_client_info": {
+          "package_name": "com.example.phn_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzT38BKSlBHaVfCwPJYxEPc7b1HIj_xnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
